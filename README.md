@@ -3,7 +3,6 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  </style>
 </head>
 <body>
   <h1>小島研究室へようこそ</h1>
